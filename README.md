@@ -1,5 +1,5 @@
 #  He there 👋
-I'm Mohammed Amine Benmade, a passionate Full Stack Developer from Youssoufia, Morocco. I'm a Youcode student, diving deep into the world of web development and loving every bit of the journey.<br><br>    🔭 I was Recently working on:<br>    A Co-working space management system with Laravel and React.<br><br>    👯 I’m looking to collaborate on:<br>    Epic open-source projects that push the envelope of web development. Let's build something awesome together!<br><br>    🤝 I’m looking for help with:<br>    Mastering advanced React patterns and turbocharging backend performance in Laravel. Let's team up and make some magic happen!<br><br>    🌱 I’m currently learning:<br>    The coolness of Tailwind CSS for styling and JWT authentication for securing APIs. Every day is a school day in the coding world!
+I'm Mohammed Amine Benmade, a passionate Full Stack Developer from Youssoufia, Morocco. I'm a Youcode student, diving deep into the world of web development and loving every bit of the journey.<br><br>    🔭 I was Recently working on:<br>    A Co-working space management system with Laravel and React.
 
 
 ## 🌐 Socials:
